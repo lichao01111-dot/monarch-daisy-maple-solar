@@ -1,0 +1,1 @@
+import{i as e,l as t,o as n,u as r}from"./index-CAMTzuRG.js";function i(){let i=e(e=>e.period),a=e(e=>e.mode),o=e(e=>e.lang),s=e(e=>e.scenario),c=n(a,i);return{period:i,mode:a,lang:o,scenario:s,agg:c,proj:t(c,s),c:r(o)}}export{i as t};

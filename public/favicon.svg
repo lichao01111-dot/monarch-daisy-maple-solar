@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="BEM Workboard">
+  <rect width="32" height="32" fill="#0B0C0B"/>
+  <path fill="#C5CDC8" d="M6 6h16l4 4v16H6z"/>
+  <rect x="10" y="10" width="12" height="12" fill="#0B0C0B"/>
+  <rect x="15" y="12" width="2" height="8" fill="#ECECE4"/>
+  <rect x="12" y="15" width="8" height="2" fill="#ECECE4"/>
+</svg>

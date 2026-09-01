@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BEM Workboard",
+      "hasCanvas": false,
+      "bodyTextLen": 732,
+      "bodyTextHash": "e21d2cf73541d54ec9fabe74c55d2193b59890ce5881f5adc89e2bed5de9fa10",
+      "bodyTextPrefix": "Skip to ledger TAPEOUT BEM Workboard 总览 排放 流向 流通 Builder 方法 社区账本",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BEM Workboard",
+      "hasCanvas": false,
+      "bodyTextLen": 594,
+      "bodyTextHash": "6f6fed0909e8e08a87d85e1ccca26e89667d34b56e9a5430cf9ccb1e6fa80f2e",
+      "bodyTextPrefix": "Skip to ledger BEM Workboard 中 EN 观察值 示意试点 24小时 7天 30天 Silicon M",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
